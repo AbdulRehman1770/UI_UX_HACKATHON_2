@@ -7,10 +7,14 @@ import { FaCircle } from "react-icons/fa";
 export default function Book() {
     return (
 <<<<<<< HEAD
+<<<<<<< HEAD
         <div className="bg-gray-100">
 =======
         <div className="bg-gray-100 overflow-hidden">
 >>>>>>> 341a056 (first commit)
+=======
+        <div className="bg-gray-100">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
             <div className="grid md:grid-cols-2 grid-cols-1 gap-3 mx-3 md:mx-7">
                 {/* first Box  */}
                 <div className="bg-white p-5">
@@ -21,6 +25,9 @@ export default function Book() {
                     </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                     <div className="grid grid-cols-2 pt-2">
                         <div>
                             <h1 className="py-2 font-semibold">Locations</h1>
@@ -38,6 +45,7 @@ export default function Book() {
                         <div>
                             <h1 className="py-2 font-semibold">Town/City</h1>
                             <input type="input" placeholder="Town/City" className="px-3 w-40 md:w-auto py-2 rounded-xl bg-gray-200 text-[12px]" />
+<<<<<<< HEAD
 =======
                     <div className="grid grid-cols-1 md:grid-cols-2 pt-2 gap-3">
                         <div>
@@ -56,6 +64,8 @@ export default function Book() {
                             <h1 className="py-2 font-semibold">Town/City</h1>
                             <input type="input" placeholder="Town/City" className="px-3 w-full py-2 rounded-xl bg-gray-200 text-[12px]" />
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                         </div>
                     </div>
                 </div>
@@ -68,19 +78,27 @@ export default function Book() {
 
                     <div className="flex items-center gap-7 py-4">
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <div className="bg-blue-500 h-[105px] w-[125px] my-4 relative rounded-md">
 =======
                         <div className="bg-blue-500 h-[105px] w-[125px] my-4 relative rounded-md">
 >>>>>>> 341a056 (first commit)
+=======
+                    <div className="bg-blue-500 h-[105px] w-[125px] my-4 relative rounded-md">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <img src="/bg1.png" alt="Loading" />
                             <img src="/car1.png" alt="Loading" className="absolute top-7" />
                         </div>
                         <div>
 <<<<<<< HEAD
+<<<<<<< HEAD
                             <p className="text-4xl font-bold">Nissan GT - R</p>
 =======
                             <p className="md:text-4xl text-2xl font-bold">Nissan GT - R</p>
 >>>>>>> 341a056 (first commit)
+=======
+                            <p className="text-4xl font-bold">Nissan GT - R</p>
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <div className="flex gap-1 items-center">
                                 <FaStar className="text-orange-400"/>
                                 <FaStar className="text-orange-400"/>
@@ -88,10 +106,14 @@ export default function Book() {
                                 <FaStar className="text-orange-400"/>
                                 <FaRegStar className="text-orange-400"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 <p className="text-sm text-gray-600">440+ Reviewer</p>
 =======
                                 <p className="md:text-sm text-[12px] text-gray-600">440+ Reviewer</p>
 >>>>>>> 341a056 (first commit)
+=======
+                                <p className="text-sm text-gray-600">440+ Reviewer</p>
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             </div>
                         </div>
                     </div>
@@ -129,17 +151,25 @@ export default function Book() {
                 {/* Third Box  */}
                 <div className="bg-white p-5">
 <<<<<<< HEAD
+<<<<<<< HEAD
 
                 <h1 className="text-xl font-semibold">Rental Info</h1>
 =======
                     <h1 className="text-xl font-semibold">Rental Info</h1>
 >>>>>>> 341a056 (first commit)
+=======
+
+                <h1 className="text-xl font-semibold">Rental Info</h1>
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                     <div className="flex text-[12px] text-gray-400 justify-between items-center">
                        <p>Please Enter Your Billing info</p>
                        <p>Step 2 of 4</p>
                     </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                 {/* Pickup  */}
                 <div className="flex items-center gap-2 mt-3">
                     <FaDotCircle className="text-blue-600 text-sm"/>
@@ -194,6 +224,7 @@ export default function Book() {
                         </div>
                         </div>
 
+<<<<<<< HEAD
 =======
                     {/* Pickup  */}
                     <div className="flex items-center gap-2 mt-3">
@@ -255,16 +286,22 @@ export default function Book() {
                         </div>
                     </div>
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                 </div>
                 {/* Third Box Complete  */}
 
                 {/* Fourth Box  */}
                 <div className="bg-white p-5">
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <h1 className="text-xl font-semibold">Payment Method</h1>
 =======
                     <h1 className="text-xl font-semibold">Payment Method</h1>
 >>>>>>> 341a056 (first commit)
+=======
+                <h1 className="text-xl font-semibold">Payment Method</h1>
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                     <div className="flex text-[12px] text-gray-400 justify-between items-center">
                        <p>Please Enter Payment Method</p>
                        <p>Step 3 of 4</p>
@@ -272,6 +309,9 @@ export default function Book() {
 
                     <div className="flex items-center justify-between">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                     <div className="flex items-center gap-2 mt-3">
                     <FaDotCircle className="text-blue-600 text-sm"/>
                     <p>Pick-up</p>
@@ -296,6 +336,7 @@ export default function Book() {
                         <div>
                             <h1 className="py-2 font-semibold">CVC</h1>
                             <input type="input" placeholder="CVC" className="px-3 w-40 md:w-auto py-2 rounded-xl bg-white-200 text-[12px]" />
+<<<<<<< HEAD
 =======
                         <div className="flex items-center gap-2 mt-3">
                             <FaDotCircle className="text-blue-600 text-sm"/>
@@ -321,11 +362,16 @@ export default function Book() {
                             <h1 className="py-2 font-semibold">CVC</h1>
                             <input type="input" placeholder="CVC" className="px-3 w-full py-2 rounded-xl bg-white-200 text-[12px]" />
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                         </div>
                     </div>
 
                     <div className="flex items-center justify-between mt-5 bg-gray-200 rounded-xl px-5 py-2">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                     <div className="flex items-center gap-3">
                     <FaCircle className="text-white"/>
                     <p className="font-semi-bold">Paypal</p>
@@ -339,6 +385,7 @@ export default function Book() {
                     <p className="font-semi-bold">Bitcoin</p>
                     </div>
                     <img src="/Bitcoin.png" alt="Loading" />
+<<<<<<< HEAD
 =======
                         <div className="flex items-center gap-3">
                             <FaCircle className="text-white"/>
@@ -354,12 +401,17 @@ export default function Book() {
                         </div>
                         <img src="/Bitcoin.png" alt="Loading" />
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                     </div>
                 </div>
 
                 {/* Fifth Box  */}
                 <div className="bg-white p-5">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                 <h1 className="text-xl font-semibold">Confirmation</h1>
                     <div className="flex text-[12px] text-gray-400 justify-between items-center">
                        <p>We are getting to the end. Just few clicks and your rental is ready!</p>
@@ -374,6 +426,7 @@ export default function Book() {
                     <div className="flex items-center gap-3 mt-5 bg-gray-200 rounded-xl px-5 py-2">
                     <FaCircle className="text-white"/>
                     <p className="font-semi-bold text-[13px]">I agree with our terms and conditions and privacy policy.</p>
+<<<<<<< HEAD
 =======
                     <h1 className="text-xl font-semibold">Confirmation</h1>
                     <div className="flex text-[12px] text-gray-400 justify-between items-center">
@@ -390,6 +443,8 @@ export default function Book() {
                         <FaCircle className="text-white"/>
                         <p className="font-semi-bold text-[13px]">I agree with our terms and conditions and privacy policy.</p>
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                     </div>
 
                     <button className="text-white bg-blue-600 mt-6 py-2 px-3 rounded-xl">Rent Now</button>
@@ -397,16 +452,25 @@ export default function Book() {
                     <h1 className="font-semibold text-xl">All your data are safe</h1>
                     <p className="text-sm text-gray-600">We are using the most advanced security to provide you the best experience ever.</p>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
                 
 =======
 >>>>>>> 341a056 (first commit)
+=======
+
+                
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                 </div>
             </div>
         </div>
     );
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> 341a056 (first commit)
+=======
+}
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca

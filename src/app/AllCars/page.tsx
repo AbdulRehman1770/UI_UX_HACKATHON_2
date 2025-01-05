@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 "use client"
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 import { FaCheckSquare } from "react-icons/fa";
 import { MdCropSquare } from "react-icons/md";
 import { FaMapMarkerAlt } from "react-icons/fa";
@@ -11,6 +14,9 @@ import { FaHeart } from "react-icons/fa";
 import { FaGasPump } from "react-icons/fa";
 import { IoIosPeople } from "react-icons/io";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 import { FaCircleRadiation } from "react-icons/fa6";
 import { CiHeart } from "react-icons/ci";
 
@@ -50,6 +56,7 @@ export default function Detail() {
 
                         <div className="flex gap-1 items-center py-1">
                             <MdCropSquare className="text-blue-600" />
+<<<<<<< HEAD
 =======
 import { FaCircleRadiation } from "react-icons/fa6"; // Corrected import
 import { CiHeart } from "react-icons/ci";
@@ -90,6 +97,8 @@ export default function Detail() {
                         <div className="flex gap-1 items-center py-1">
                             <MdCropSquare className="text-blue-600 text-xl rounded-lg" />
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <p>Hatchback (12)</p>
                         </div>
                     </div>
@@ -98,6 +107,9 @@ export default function Detail() {
                         <p className="text-[12px] text-gray-600 py-1">Type</p>
                         <div className="flex gap-1 items-center py-1">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <FaCheckSquare className="text-blue-600" />
                             <p>2 Person</p>
                         </div>
@@ -131,6 +143,7 @@ export default function Detail() {
                         {/* left section  */}
                         <div className="md:col-span-3 grid grid-cols-3 w-[360px] md:w-auto bg-white">
                             <div className=" col-span-3 flex items-center font-bold gap-1 pl-3 py-3 text-[14px]">
+<<<<<<< HEAD
 =======
                             <FaCheckSquare className="text-blue-600 rounded-lg" />
                             <p>2 Person</p>
@@ -161,12 +174,17 @@ export default function Detail() {
                         <div className="md:col-span-3 grid grid-cols-3 bg-white">
                             <div className="col-span-3 flex items-center font-bold gap-1 pl-3 py-3 text-[14px]">
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                 <FaMapMarkerAlt />
                                 <p>Pick - up</p>
                             </div>
 
                             {/* locations */}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <div className=" grid-cols-1 px-2 py-3">
                                 <h1 className="font-bold md:text-[16px]">Locations</h1>
                                 <div className="md:text-[12px] text-[8px] my-2 flex items-center md:justify-start justify-center gap-1 outline outline-gray-400 md:px-1 py-1">
@@ -206,6 +224,7 @@ export default function Detail() {
                         <div className="md:col-span-3 grid grid-cols-3 bg-white">
                             <div className=" col-span-3">
                                 <div className="0 col-span-3 flex items-center font-bold gap-1 pl-3 py-3 text-[14px]">
+<<<<<<< HEAD
 =======
                             <div className="grid-cols-1 px-2 py-3">
                                 <h1 className="font-bold md:text-[16px]">Locations</h1>
@@ -247,12 +266,17 @@ export default function Detail() {
                             <div className="col-span-3">
                                 <div className="col-span-3 flex items-center font-bold gap-1 pl-3 py-3 text-[14px]">
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                     <FaMapMarkerAlt />
                                     <p>Drop - Off</p>
                                 </div>
                             </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             {/* Location  */}
                             <div className=" grid-cols-1 px-2 py-3">
                                 <h1 className="font-bold md:text-[16px]">Locations</h1>
@@ -279,6 +303,7 @@ export default function Detail() {
                                     <p className="hidden md:block ">Select your Time</p>
 
                                     <AiOutlineDown /> </div>
+<<<<<<< HEAD
 =======
                             {/* Location */}
                             <div className="grid-cols-1 px-2 py-3">
@@ -308,6 +333,8 @@ export default function Detail() {
                                     <AiOutlineDown />
                                 </div>
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             </div>
                         </div>
                     </div>
@@ -315,6 +342,9 @@ export default function Detail() {
 
                 {/* 3rd Section */}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 
                 <div className="col-span-3 row-span-8 mx-5 relative md:top-[-70px] top-[-270px]">
                     <div className="grid md:grid-cols-3 grid-cols-1 gap-2">
@@ -322,6 +352,7 @@ export default function Detail() {
                         <div className="md:w-64 w-[360px] h-60 bg-white hidden md:block">
                             <div className="bg-white md:w-64 w-[360px] h-56 grid grid-cols-5 grid-rows-10">
                                 <div className=" col-span-5 row-span-2 flex items-center pt-3 justify-between mx-4 font-bold">
+<<<<<<< HEAD
 =======
                 <div className="col-span-1 md:col-span-3 row-span-8 relative top-[-370px] md:top-[-120px]">
                     <div className="grid md:grid-cols-3 grid-cols-1 gap-2">
@@ -330,15 +361,21 @@ export default function Detail() {
                             <div className="w-full h-64 grid grid-cols-5 grid-rows-10">
                                 <div className="col-span-5 row-span-2 flex items-center pt-3 justify-between mx-4 font-bold">
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                     <h1>Koenigsegg</h1>
                                     <FaHeart className="text-red-600" />
                                 </div>
                                 <div className="text-gray-400 col-span-5 text-[12px] mx-4 items-center">sport</div>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                 <div className=" col-span-5 row-span-3 flex justify-center pt-3 items-center ">
                                     <img src="/car.png" alt="" />
                                 </div>
                                 <div className=" col-span-5 row-span-2 mx-4 flex items-center justify-between mt-4 ">
+<<<<<<< HEAD
 =======
                                 <div className="col-span-5 row-span-3 flex justify-center pt-3 items-center">
                                     <Image src="/car.png" alt="Koenigsegg" width={192} height={192}
@@ -347,6 +384,8 @@ export default function Detail() {
                                 </div>
                                 <div className="col-span-5 row-span-2 mx-4 flex items-center justify-between mt-4">
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                     <div className="text-[12px] text-gray-400 flex items-center gap-1">
                                         <FaGasPump />
                                         <p>90L</p>
@@ -361,6 +400,9 @@ export default function Detail() {
                                     </div>
                                 </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                 <div className=" col-span-5 row-span-2 mx-4 flex items-center justify-between mt-2">
                                     <div className="font-bold">$99.00/<span className="font-light text-[10px] text-gray-400">day</span></div>
                                     <button className=" px-2 py-1 text-white text-[15px] rounded-sm bg-blue-600">Rent Now</button>
@@ -373,6 +415,7 @@ export default function Detail() {
 
                         <div className=" md:w-64 w-[360px] h-60 bg-white hidden md:block">
                             <div className="bg-white md:w-64 w-[360px] h-56 grid grid-cols-5 grid-rows-10">
+<<<<<<< HEAD
 =======
                                 <div className="col-span-5 row-span-2 mx-4 flex items-center justify-between mt-2">
                                     <div className="font-bold">$99.00/<span className="font-light text-[10px] text-gray-400">day</span></div>
@@ -385,11 +428,14 @@ export default function Detail() {
                         <div className="w-80 md:w-full mx-auto md:mx-0 shadow-md rounded-xl hidden md:block bg-white  pb-3 transition-transform duration-100 hover:scale-105">
                             <div className="w-full h-56 grid grid-cols-5 grid-rows-10">
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                 <div className=" col-span-5 row-span-2 flex items-center pt-3 justify-between mx-4 font-bold">
                                     <h1>Nissan GT-R</h1>
                                     <CiHeart />
                                 </div>
                                 <div className="text-gray-400 col-span-5 text-[12px] mx-4 items-center">sport</div>
+<<<<<<< HEAD
 <<<<<<< HEAD
                                 <div className=" col-span-5 row-span-3 flex justify-center pt-3 items-center ">
                                     <img src="/car1.png" alt="" />
@@ -399,6 +445,10 @@ export default function Detail() {
                                         className={`transition-opacity duration-700 ${loaded ? 'opacity-100' : 'opacity-0'}`}
                                         onLoadingComplete={() => setLoaded(true)} />
 >>>>>>> 341a056 (first commit)
+=======
+                                <div className=" col-span-5 row-span-3 flex justify-center pt-3 items-center ">
+                                    <img src="/car1.png" alt="" />
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                 </div>
                                 <div className=" col-span-5 row-span-2 mx-4 flex items-center justify-between mt-4 ">
                                     <div className="text-[12px] text-gray-400 flex items-center gap-1">
@@ -421,6 +471,9 @@ export default function Detail() {
                         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                         {/* Second Card Complete  */}
 
                         {/* Third Card  */}
@@ -648,6 +701,7 @@ export default function Detail() {
             </div>
         </div>
     )
+<<<<<<< HEAD
 =======
                         {/* Third Card  */}
                         <div className="w-80 md:w-full mx-auto md:mx-0 h-64 shadow-md rounded-xl bg-white pb-3 hover:scale-105">
@@ -899,4 +953,6 @@ export default function Detail() {
         </div>
     );
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 }

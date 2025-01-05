@@ -13,6 +13,9 @@ import { HiDotsHorizontal } from "react-icons/hi";
 import { FaCircle } from "react-icons/fa";
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 
 
 
@@ -26,6 +29,7 @@ export default function Admin() {
                     <p className="text-sm text-gray-600 pb-2">Main Menu</p>
                     <div className="space-y-4">
                         <div className="flex items-center gap-3 bg-blue-600 text-white rounded-xl w-48 p-3">
+<<<<<<< HEAD
 =======
 export default function Admin() {
     return (
@@ -38,38 +42,55 @@ export default function Admin() {
                     <div className="space-y-4">
                         <div className="flex items-center gap-3 bg-blue-600 text-white rounded-xl w-full md:w-48 p-3">
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <IoMdHome />
                             <p>Dashboard</p>
                         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
 =======
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-full md:w-48 p-3">
 >>>>>>> 341a056 (first commit)
+=======
+                        <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <FaCarSide />
                             <p>Car Rent</p>
                         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
 =======
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-full md:w-48 p-3">
 >>>>>>> 341a056 (first commit)
+=======
+                        <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <GoGraph />
                             <p>Insights</p>
                         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
 =======
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-full md:w-48 p-3">
 >>>>>>> 341a056 (first commit)
+=======
+                        <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <MdForwardToInbox />
                             <p>Inbox</p>
                         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
                             <SlCalender />
                             <p>Calender</p>
@@ -78,6 +99,7 @@ export default function Admin() {
                     <div>
                         <h1 className="text-sm text-gray-600 mt-5">preferences</h1>
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
+<<<<<<< HEAD
 =======
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-full md:w-48 p-3">
                             <SlCalender />
@@ -89,20 +111,29 @@ export default function Admin() {
                         <h1 className="text-sm text-gray-600 mt-5">Preferences</h1>
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-full md:w-48 p-3">
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <IoMdSettings />
                             <p>Settings</p>
                         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
 =======
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-full md:w-48 p-3">
 >>>>>>> 341a056 (first commit)
+=======
+                        <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <IoIosHelpCircleOutline />
                             <p>Help and Center</p>
                         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-48 p-3">
                             <CgDarkMode />
                             <p>Dark Mode</p>
@@ -124,6 +155,7 @@ export default function Admin() {
                     <div className="space-y-4">
                         <h1 className="text-2xl font-semibold">Details Rent</h1>
                         <img src="/Maps.png" alt="Loading" className="h-60" />
+<<<<<<< HEAD
 =======
                         <div className="flex items-center gap-3 text-gray-600 rounded-xl w-full md:w-48 p-3">
                             <CgDarkMode />
@@ -146,6 +178,8 @@ export default function Admin() {
                         <h1 className="text-2xl font-semibold">Details Rent</h1>
                         <img src="/Maps.png" alt="Loading" className="h-60 w-full object-cover" />
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                     </div>
 
                     <div>
@@ -180,10 +214,14 @@ export default function Admin() {
                         </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <div className="flex item-center justify-between p-4 bg-gray-200 rounded-2xl mt-3 ">
 =======
                         <div className="flex items-center justify-between p-4 bg-gray-200 rounded-2xl mt-3">
 >>>>>>> 341a056 (first commit)
+=======
+                        <div className="flex item-center justify-between p-4 bg-gray-200 rounded-2xl mt-3 ">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <p>Apply Promo Code</p>
                             <p>Apply Now</p>
                         </div>
@@ -192,10 +230,14 @@ export default function Admin() {
                             <div>
                                 <p className="text-xl font-semibold">Total Rental Price</p>
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 <p className="text-sm text-gray-600 ">Overall Price and includes rental discount</p>
 =======
                                 <p className="text-sm text-gray-600">Overall Price and includes rental discount</p>
 >>>>>>> 341a056 (first commit)
+=======
+                                <p className="text-sm text-gray-600 ">Overall Price and includes rental discount</p>
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             </div>
                             <div className="text-4xl font-bold">$80.00</div>
                         </div>
@@ -204,6 +246,9 @@ export default function Admin() {
 
                 {/* Third Section  */}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                 <div className="bg-white p-3 md:ml-[-80px] md:mr-[20px]">
                     <div className="flex items-center justify-between text-2xl text-semibold">
                         <h1>Top 5 Rental Car</h1>
@@ -216,6 +261,7 @@ export default function Admin() {
                                     <h1 className="font-semibold">72,030</h1>
                                     <p className="text-sm text-gray-600">Rental Car</p>
                                 </div>
+<<<<<<< HEAD
 =======
                 <div className="bg-white p-3 w-full">
                     <div className="flex items-center justify-between text-2xl font-semibold">
@@ -233,11 +279,16 @@ export default function Admin() {
                                 </div>
                             </div>
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                         </div>
                         <div>
                             <div className="flex items-center justify-between space-x-12 md:space-x-16">
                                 <div className="flex items-center gap-2">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                     <FaCircle className="text-blue-900"/>
                                 <p className="text-gray-600">Sport Card</p>
                             </div><p>17,439</p></div>
@@ -273,6 +324,7 @@ export default function Admin() {
             </div>
         </div>
     )
+<<<<<<< HEAD
 =======
                                     <FaCircle className="text-blue-900 text-[12px] md:text-[16px]" />
                                     <p className="text-gray-600 text-[12px] md:text-[18px]">SportCar</p>
@@ -318,4 +370,6 @@ export default function Admin() {
         </div>
     );
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 }

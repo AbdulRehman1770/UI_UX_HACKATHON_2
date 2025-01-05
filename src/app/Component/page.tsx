@@ -1,13 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 import { FaMapMarkerAlt } from "react-icons/fa";
 import { AiOutlineDown } from "react-icons/ai";
 import { MdDateRange } from "react-icons/md";
 
 export default function My1() {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
     return (
         <div>
             {/* 2 boxes */}
@@ -153,6 +159,7 @@ export default function My1() {
 
        
     )
+<<<<<<< HEAD
 =======
   return (
     <div className="overflow-hidden">
@@ -294,4 +301,6 @@ export default function My1() {
     </div>
   );
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 }

@@ -1,13 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 "use client"
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 import { FaHeart } from "react-icons/fa";
 import { FaGasPump } from "react-icons/fa";
 import { IoIosPeople } from "react-icons/io";
 import { FaCircleRadiation } from "react-icons/fa6";
 import { CiHeart } from "react-icons/ci";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 export default function My3() {
     return (
         <div>
@@ -283,6 +289,7 @@ export default function My3() {
         </div>
     );
 }
+<<<<<<< HEAD
 =======
 import Image from 'next/image';
 import { useState } from 'react';
@@ -596,3 +603,5 @@ export default function My3() {
   );
 }
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca

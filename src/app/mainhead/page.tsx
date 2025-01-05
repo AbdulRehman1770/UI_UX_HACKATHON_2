@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 // "use client";
 // import Link from "next/link";
@@ -43,6 +44,8 @@
 // New Code
 
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 "use client";
 import Link from "next/link";
 import { useState } from "react";
@@ -53,11 +56,16 @@ export default function MainHead() {
   return (
     <div className="p-5 text-blue flex items-center justify-between relative">
 <<<<<<< HEAD
+<<<<<<< HEAD
 
       <h1 className="text-3xl font-bold">AutoHaven Car Rental</h1>
 =======
       <h1 className="md:text-3xl text-xl font-bold">AutoHaven Car Rental</h1>
 >>>>>>> 341a056 (first commit)
+=======
+
+      <h1 className="text-3xl font-bold">AutoHaven Car Rental</h1>
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
       <button
         className="md:hidden text-4xl focus:outline-none"
         onClick={() => setIsMenuOpen((prev) => !prev)}
@@ -82,17 +90,24 @@ export default function MainHead() {
             <Link href="/Reviews">Reviews</Link>
           </li>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
           <li className="text-md hover:text-gray-200 p-3 bg-blue-600 rounded-md text-white">
             <Link href="/Admin">Admin</Link>
           </li>
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
         </ul>
       </nav>
     </div>
   );
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> 341a056 (first commit)
+=======
+}
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca

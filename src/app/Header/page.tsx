@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 import Image from "next/image";
 import { FaSearch } from "react-icons/fa";
 
@@ -10,6 +13,7 @@ export default function Header() {
       <div className="bg-white">
       <p className="text-blue-600 text-xl md:text-3xl font-semibold p-4">
         Morent
+<<<<<<< HEAD
 =======
 // import Image from "next/image";
 // import { FaSearch } from "react-icons/fa";
@@ -119,12 +123,17 @@ export default function Header() {
         <p className="text-blue-600 text-xl md:text-3xl font-semibold p-4">
           Morent
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
         </p>
       </div>
 
       {/* 2nd section  */}
       <div className="bg-white col-span-2 order-3 md:order-none">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
 
       <div className="relative mx-7">
   <input
@@ -203,6 +212,7 @@ export default function Header() {
     // </header>
   );
 }
+<<<<<<< HEAD
 =======
         <div className="relative mx-7">
           <input
@@ -232,3 +242,5 @@ export default function Header() {
   );
 }
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca

@@ -14,10 +14,14 @@ import { CiHeart } from "react-icons/ci";
 export default function Reviews() {
     return (
 <<<<<<< HEAD
+<<<<<<< HEAD
         <div className="overflow-hidden h-auto">
 =======
         <div className="overflow-x-hidden h-auto">
 >>>>>>> 341a056 (first commit)
+=======
+        <div className="overflow-hidden h-auto">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
             {/* parent div  */}
 
             <div className="grid mx-3 md:mx-7 bg-gray-100 md:grid-cols-5 gap-2 ">
@@ -91,6 +95,9 @@ export default function Reviews() {
                 <div className="bg-white md:col-span-2 col-span-4 row-span-3">
                     <div className="grid grid-cols-3">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                         <div className="bg-blue-500 mx-auto md:mx-0 col-span-3 md:w-[420px] w-full h-[230px] rounded-2xl relative">
                             <img src="/bg1.png" alt="background" className="w-full h-[230px]" />
                             <div className="absolute inset-5 w-80 font-bold text-white text-2xl">Sports Car With The Best Design and acceleration</div>
@@ -106,6 +113,7 @@ export default function Reviews() {
                             <img src="/View2.png" alt="Loading" />
                         </div>
                         <div className="bg-purple-500 h-24 w-[125px] my-4 rounded-md">
+<<<<<<< HEAD
 =======
                         <div className="bg-blue-500 mx-auto md:mx-0 col-span-3 md:w-[420px] w-80 h-[230px] rounded-2xl relative">
                             <img src="/bg1.png" alt="background" className="w-80 h-[230px]" />
@@ -123,15 +131,20 @@ export default function Reviews() {
                         </div>
                         <div className="bg-purple-500 md:h-[105px] md:w-[125px] w-24 h-24 my-4 rounded-md">
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                             <img src="View3.png" alt="Loading" />
                         </div>
                     </div>
                 </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
                 
 >>>>>>> 341a056 (first commit)
+=======
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                 {/* 2nd Section Complete  */}
 
                 {/* 3rd section  */}
@@ -187,6 +200,7 @@ export default function Reviews() {
                                     <p className="text-gray-500 text-sm">CEO at Bukalapak</p>
                                 </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 <div className="relative md:left-[520px] left-20">
                                     <p className="text-gray-500">21 July 2022</p>
                                     <div className="flex gap-1">
@@ -195,6 +209,11 @@ export default function Reviews() {
                                     <p className="text-gray-500">21 July 2022</p>
                                     <div className="flex gap-1 text-[12px] md:text-md">
 >>>>>>> 341a056 (first commit)
+=======
+                                <div className="relative md:left-[520px] left-20">
+                                    <p className="text-gray-500">21 July 2022</p>
+                                    <div className="flex gap-1">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                         <FaStar className="text-orange-400" />
                                         <FaStar className="text-orange-400" />
                                         <FaStar className="text-orange-400" />
@@ -218,6 +237,7 @@ export default function Reviews() {
                                     <p className="text-gray-500 text-sm">CEO at Amazon</p>
                                 </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 <div className="relative md:left-[540px] left-24">
                                     <p className="text-gray-500">21 July 2022</p>
                                     <div className="flex gap-1">
@@ -226,6 +246,11 @@ export default function Reviews() {
                                     <p className="text-gray-500">21 July 2022</p>
                                     <div className="flex gap-1 text-[12px] md:text-md">
 >>>>>>> 341a056 (first commit)
+=======
+                                <div className="relative md:left-[540px] left-24">
+                                    <p className="text-gray-500">21 July 2022</p>
+                                    <div className="flex gap-1">
+>>>>>>> 00399a1e3331cd4dfdecf6c30105a6dc98c601ca
                                         <FaStar className="text-orange-400" />
                                         <FaStar className="text-orange-400" />
                                         <FaStar className="text-orange-400" />
